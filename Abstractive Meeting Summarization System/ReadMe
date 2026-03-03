@@ -1,0 +1,3 @@
+This project implements a scalable abstractive meeting summarization system using BART with hierarchical Map-Reduce processing to handle 
+long transcripts beyond Transformer context limits.
+
